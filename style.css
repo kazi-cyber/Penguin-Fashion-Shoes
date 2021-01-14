@@ -1,0 +1,21 @@
+
+}
+.same-color{
+    color: coral ;
+    font-family: 'Bebas Neue', cursive;
+}
+.other-color{
+    color: rgb(9, 9, 112);
+    font-family: 'Bebas Neue', cursive;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(38, 38, 99);
+}
+.button-gap{
+    margin-left: 7.05em;
+    position: absolute;
+    
+}
+
+
